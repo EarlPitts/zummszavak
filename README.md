@@ -92,4 +92,4 @@
 | Bottleneck | Palacknyak |
 | State Memory | Állam Emlékezet |
 | Boilerplate | Kazánlap |
-
+| Mocking | Gúnyolódás |
